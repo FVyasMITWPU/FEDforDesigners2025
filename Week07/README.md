@@ -32,5 +32,6 @@ Use a combination of for loop, if else statement, and typeof keyword to print on
 - [JavaScript Assignment - W3Schools](https://www.w3schools.com/JS/js_assignment.asp)
 - [Loops and Iteration - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 - [JavaScript for Loop – FreeCodeCamp](https://www.freecodecamp.org/news/javascript-for-loops/)
+- [JavaScript while Loop - W3Schools](https://www.w3schools.com/js/js_loop_while.asp)
 - [Array - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - [JavaScript Arrays W3Schools](https://www.w3schools.com/JS/js_arrays.asp)
