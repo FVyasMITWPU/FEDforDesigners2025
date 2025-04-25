@@ -45,8 +45,6 @@ if(person1_data.hasOwnProperty("name")){
 else{ 
   console.log("No, we do not have person1's name on our database");
 }
-
-console.log("CHECKPOINT");
   
 let person2_data = new Object(); // OBJECT CONSTRUCTOR METHOD
 person2_data.name="Patricia";
