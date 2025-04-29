@@ -1,6 +1,7 @@
 **Topics Covered**
 
 - addEventListener( ) method syntax: event and listener function
+- Modifying the class list of HTML elements through JavaScript using classList.add( ), remove( ), toggle( )
 - Mouse Events using addEventListener
 - Key Events using addEventListener
 
